@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "coloring animals";
-        private static string COMPANY_NAME = "1692767240181880158075";
+        private static string COMPANY_NAME = "1692834220286106511086";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.app.coloringanimals";
         private static string PATH_KEYSTORE = "data.keystore";
